@@ -2,6 +2,8 @@ James Knight, A Udacity Student!
 
 IP Address: 34.219.161.26
 SSH Port: 2200
+Password: udacity
+
 
 Installed software: libapache2-mod-wsgi python-dev, Postgresql, Python 2.7.12, pip, sqlalchemy, requests,flask, oauth2client,
 and virtualenv.
