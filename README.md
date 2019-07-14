@@ -14,4 +14,4 @@ shown above, which is easily accessible by entering it into the search bar prece
 
 I made use of Udacity's Student Hub, and got some valuable information from digitalocean (https://www.digitalocean.com
 /community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps) while making this project! I also used google
-plus verification for the web app itself. (Even if logging into it doesn't work)
+plus verification for the web app itself. (Even if logging into it doesn't work) Also, can't give enought credit to (https://github.com/jungleBadger/-nanodegree-linux-server)!
